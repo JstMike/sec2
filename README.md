@@ -1,2 +1,2 @@
 # sec2
-its encripted
+its encrypted
